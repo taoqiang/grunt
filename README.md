@@ -1,5 +1,7 @@
 # grunt 学习
-
+    
+    安装nodejs非常简单下一步下一步下一步、的安装方式，这里不再赘述。去 https://nodejs.org/ 上，点击页面中那个绿色“install”按钮即可。
+    
 1、安装 node.js
 
 2、安装 grunt-cli
